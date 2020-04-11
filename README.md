@@ -4,9 +4,9 @@ Xss之Flash钓鱼全套
   
 Flash.cn　　　　　　　　　　　　　　//Flash钓鱼源码  
 
-WinRAR　　　　　　　　　　　　　　　//压缩文件  
+WinRAR　　　　　　　　　　　　　　//压缩文件  
 
-flashplayerpp_install_cn.exe　　//正常的Flash程序文件  
+flashplayerpp_install_cn.exe　　　　　　//正常的Flash程序文件  
 
 version.js　　　　　　　　　　　　　//加载的js  
 
