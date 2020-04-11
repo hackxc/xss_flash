@@ -12,4 +12,6 @@ version.js　　　　　　　　　　　　　　//加载的js
 
 图标.ico　　　　　　　　　　　　　　//Flash图标  
 
-相关文章：http://www.hackxc.cc/?post=51
+相关文章：http://www.hackxc.cc/?post=51  
+
+![img](https://github.com/hackxc/xss_flash/blob/master/demo.png)
